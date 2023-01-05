@@ -36,6 +36,6 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "enzyme-to-json": "^3.4.4",
-    "jest-cli": "^20.0.4"
+    "jest-cli": "^29.3.1"
   }
 }
